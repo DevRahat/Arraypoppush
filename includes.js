@@ -8,3 +8,6 @@ if(friends.includes("Fahad")){
 }else{
     console.log("We will stay at home");
 }
+
+console.log(friends.indexOf("Fahad"));
+console.log(friends.includes("Asif"));
